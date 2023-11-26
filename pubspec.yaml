@@ -1,0 +1,24 @@
+name: flutter_firebase_input_data
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  # cloud_firestore: ^4.13.2
+  # firebase_core: ^2.11.0
+  # firebase_auth: ^3.3.0
+  # firebase_storage: ^10.2.0
+  firebase_utilitas: ^0.0.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
